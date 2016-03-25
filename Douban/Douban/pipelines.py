@@ -9,6 +9,7 @@ from scrapy import signals
 from scrapy.exporters import XmlItemExporter
 import json
 import codecs
+import Write as W
 import os
 import sys
 default_encoding = 'utf-8'
@@ -46,14 +47,17 @@ class DoubanPipeline(object):
         self.path = os.getcwd()+'/spider_products'
         if not os.path.isdir(self.path):
             os.mkdir(self.path)
+
     def process_item(self, item, spider):
-        tmp = self.path +'/%s'%item['movie_keyword']
-        if not os.path.isdir(tmp):
-            os.mkdir(tmp)
-        tmp=tmp+ u'/%s'%item['movie_name']
-        if not os.path.isdir(tmp):
-            os.mkdir(tmp)
-        my_file = codecs.open('%s/%s.xml' % (tmp,item['comment_title']),mode='wb',encoding='utf-8')
-        line = json.dumps(dict(item))+'\n'
-        my_file.write(line.decode("unicode_escape"))
+        w=W.Write(item,self.path)
+        w.run()
+        #tmp = self.path +'/%s'%item['movie_keyword']
+        #if not os.path.isdir(tmp):
+            #os.mkdir(tmp)
+        #tmp=tmp+ u'/%s'%item['movie_name']
+        #if not os.path.isdir(tmp):
+            #os.mkdir(tmp)
+        #my_file = codecs.open('%s/%s.xml' % (tmp,item['comment_title']),mode='wb',encoding='utf-8')
+        #line = json.dumps(dict(item))+'\n'
+        #my_file.write(line.decode("unicode_escape"))
         return item
