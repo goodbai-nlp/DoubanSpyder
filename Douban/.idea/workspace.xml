@@ -1,7 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="691ef8a5-bf9a-4204-90dd-33b9695587db" name="Default" comment="" />
+    <list default="true" id="691ef8a5-bf9a-4204-90dd-33b9695587db" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/merge.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/movie_name.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/世界末日 Armageddon/I don\'t wanna miss a thing.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/世界末日 Armageddon/I don\'t want to miss a thing.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/世界末日 Armageddon/不要受评价误导.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/世界末日 Armageddon/电影瞎看之《世界末日》.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/世界末日 Armageddon/绚丽中的感动.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/世界末日 This is the End/LIVE IN EVIL OR DIE AS ANGEL.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/世界末日 This is the End/《世界末日》：烂仔帮是“药别停”“何弃疗”的最佳注解.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/世界末日 This is the End/倘若世界末日真的到来.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/世界末日 This is the End/海报上各人物的交集.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/世界末日 This is the End/豪华真人版的扯蛋大片，精血混合物的喜剧盛宴。.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/我们的世界末日 第一季 You; Me and the Apocalypse Season 1/满嘴鬼扯的剧评，答应我，别信好嘛.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/我是传奇 I Am Legend/一个主旋律剧本的诞生过程.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/我是传奇 I Am Legend/一个传奇的产生.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/我是传奇 I Am Legend/一切为了SAM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/我是传奇 I Am Legend/不及原著传奇.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/我是传奇 I Am Legend/两种传奇.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/撕裂的末日 Equilibrium/下一秒，神话就会自焚.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/撕裂的末日 Equilibrium/关于正义的悖谬.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/撕裂的末日 Equilibrium/制度的力量.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/撕裂的末日 Equilibrium/打破，或保持封闭.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/撕裂的末日 Equilibrium/撕裂的末日.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日侵袭 Doomsday/no zuo no die.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日侵袭 Doomsday/《末日侵袭》：被埋没的趣味电影.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日侵袭 Doomsday/例行吐槽，这片太那啥了.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日侵袭 Doomsday/混乱元素流（剧透）.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日侵袭 Doomsday/病毒来临，你想嘎哈？.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日危途 The Road/2012续集-窝囊废的世界末日.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日危途 The Road/不是所有的好电影都有机会出现在公众的记忆里－－写于奥斯卡颁奖之后.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日危途 The Road/善的理由.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日危途 The Road/我只想怀疑豆瓣豆友的赏析问题。.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日危途 The Road/救救孩子.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日孤舰 第一季 The Last Ship Season 1/加量豪华版美国海军征兵广告.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日孤舰 第一季 The Last Ship Season 1/用来打硬仗的伯克级导弹驱逐舰.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日孤舰 第二季 The Last Ship Season 2/Captain Chandler\'s high convincing words.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日孤舰 第二季 The Last Ship Season 2/凡事都是有代价的.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日孤舰 第二季 The Last Ship Season 2/吐槽下舰长这只双标狗。.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日孤舰 第二季 The Last Ship Season 2/玛丽苏火力全开，舰长智勇双全.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日孤舰 第二季 The Last Ship Season 2/（第11集）末日孤舰 第二季 The Last Ship Season 2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日崩塌 San Andreas/【非影评】大陆上映前的的一个小小科普.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日崩塌 San Andreas/一部很合规矩的灾难片，看了不会失望.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日崩塌 San Andreas/俗套虐我千百遍，我爱俗套如初恋.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日崩塌 San Andreas/末日崩塌：灾难中美国家庭的通识教育课.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日崩塌 San Andreas/请提前上好厕所.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日迷踪 Left Behind/信春哥得永生的扯淡电影.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日迷踪 Left Behind/如此救赎.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日迷踪 Left Behind/尼古拉斯凯奇 影片烂，但演技不烂。.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日迷踪 Left Behind/差评正常.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/末日迷踪 Left Behind/我尼玛古拉斯.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/疯狂的麦克斯4：狂暴之路 Mad Max; Fury Road/【完全剧透】剧情全回顾.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/疯狂的麦克斯4：狂暴之路 Mad Max; Fury Road/大漠、长空与战士的公路狂想曲.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/疯狂的麦克斯4：狂暴之路 Mad Max; Fury Road/简评，及废土英语分析.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/疯狂的麦克斯4：狂暴之路 Mad Max; Fury Road/要是电影里的妹子都这么吊，还要腐女干啥.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/疯狂的麦克斯4：狂暴之路 Mad Max; Fury Road/（无剧透）酷到全影院原地炸裂升华.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/病毒之末日危机/广告植入.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/雪国列车 설국열차/40 Trivia of Snowpiercer (SPOILERS ALERT!!!).xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/雪国列车 설국열차/Never ending story.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/雪国列车 설국열차/一场重复或者重生的仪式（雪国列车与漫画改编）.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/雪国列车 설국열차/当“革命”变成“安全阀”.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/末日/雪国列车 설국열차/我说是目前最为准确详细的解析不过分吧....xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/上帝也疯狂 The Gods Must Be Crazy/上帝也疯狂——自然战胜论.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/上帝也疯狂 The Gods Must Be Crazy/上帝的错.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/上帝也疯狂 The Gods Must Be Crazy/伊甸的沦陷.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/上帝也疯狂 The Gods Must Be Crazy/自己的上帝.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/上帝也疯狂 The Gods Must Be Crazy/被时间遗忘的人.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/世界末日 Armageddon/I don\'t wanna miss a thing.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/世界末日 Armageddon/I don\'t want to miss a thing.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/世界末日 Armageddon/不要受评价误导.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/世界末日 Armageddon/电影瞎看之《世界末日》.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/世界末日 Armageddon/绚丽中的感动.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/世界末日 This is the End/LIVE IN EVIL OR DIE AS ANGEL.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/世界末日 This is the End/《世界末日》：烂仔帮是“药别停”“何弃疗”的最佳注解.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/世界末日 This is the End/倘若世界末日真的到来.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/世界末日 This is the End/海报上各人物的交集.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/世界末日 This is the End/豪华真人版的扯蛋大片，精血混合物的喜剧盛宴。.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/动物也疯狂 Delhi Safari/舞起印度风.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/年兽大作战/徒有其表 虚而无实.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/年兽大作战/成长多彩路 神兽美如画.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/我们的世界末日 第一季 You; Me and the Apocalypse Season 1/满嘴鬼扯的剧评，答应我，别信好嘛.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/我是传奇 I Am Legend/一个主旋律剧本的诞生过程.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/我是传奇 I Am Legend/一个传奇的产生.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/我是传奇 I Am Legend/一切为了SAM.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/我是传奇 I Am Legend/不及原著传奇.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/我是传奇 I Am Legend/两种传奇.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/撕裂的末日 Equilibrium/下一秒，神话就会自焚.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/撕裂的末日 Equilibrium/关于正义的悖谬.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/撕裂的末日 Equilibrium/制度的力量.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/撕裂的末日 Equilibrium/打破，或保持封闭.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/撕裂的末日 Equilibrium/撕裂的末日.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日侵袭 Doomsday/no zuo no die.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日侵袭 Doomsday/《末日侵袭》：被埋没的趣味电影.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日侵袭 Doomsday/例行吐槽，这片太那啥了.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日侵袭 Doomsday/混乱元素流（剧透）.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日侵袭 Doomsday/病毒来临，你想嘎哈？.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日危途 The Road/2012续集-窝囊废的世界末日.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日危途 The Road/不是所有的好电影都有机会出现在公众的记忆里－－写于奥斯卡颁奖之后.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日危途 The Road/善的理由.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日危途 The Road/我只想怀疑豆瓣豆友的赏析问题。.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日危途 The Road/救救孩子.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日孤舰 第一季 The Last Ship Season 1/加量豪华版美国海军征兵广告.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日孤舰 第一季 The Last Ship Season 1/用来打硬仗的伯克级导弹驱逐舰.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日孤舰 第二季 The Last Ship Season 2/Captain Chandler\'s high convincing words.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日孤舰 第二季 The Last Ship Season 2/凡事都是有代价的.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日孤舰 第二季 The Last Ship Season 2/吐槽下舰长这只双标狗。.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日孤舰 第二季 The Last Ship Season 2/玛丽苏火力全开，舰长智勇双全.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日孤舰 第二季 The Last Ship Season 2/（第11集）末日孤舰 第二季 The Last Ship Season 2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日崩塌 San Andreas/【非影评】大陆上映前的的一个小小科普.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日崩塌 San Andreas/一部很合规矩的灾难片，看了不会失望.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日崩塌 San Andreas/俗套虐我千百遍，我爱俗套如初恋.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日崩塌 San Andreas/末日崩塌：灾难中美国家庭的通识教育课.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日崩塌 San Andreas/请提前上好厕所.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日迷踪 Left Behind/信春哥得永生的扯淡电影.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日迷踪 Left Behind/如此救赎.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日迷踪 Left Behind/尼古拉斯凯奇 影片烂，但演技不烂。.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日迷踪 Left Behind/差评正常.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/末日迷踪 Left Behind/我尼玛古拉斯.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂 Crazy/When I was 16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂72小时/一个剩女和五个男人之间的故事.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂72小时/只是奔着佟掌柜看的.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂72小时/看《疯狂72小时》略有小感.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂72小时/莫名72小时.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂动物城 Zootopia/《疯狂动物城》的三重内涵，以及一个文化图腾的诞生.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂动物城 Zootopia/孩子：学会做一个体面的普通人.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂动物城 Zootopia/疯狂动物城的阴暗面.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂动物城 Zootopia/疯狂动物城：政治正确的美丽新世界.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂动物城 Zootopia/这是一部让我变成水军的动画.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂原始人 The Croods/The Croods里的男人们.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂原始人 The Croods/【爆好看！偏学术】《疯狂原始人》中的编剧门道.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂原始人 The Croods/女汉子也有春天.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂原始人 The Croods/泼泼冷水：哪里值得高分？.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂原始人 The Croods/老爸真的好可怜啊.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂外星人 Home/《疯狂外星人》：梦工厂的误区.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂外星人 Home/剧透！+伪学术.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂外星人 Home/想象力让你法力无边——动画电影《Home》前瞻.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂外星人 Home/疯狂原始人的复制品.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂外星人 Home/舞动全宇宙.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的石头/《疯狂的石头》：一石激起千层浪.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的石头/包世宏的老婆真标致.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的石头/抄袭年——跑题漫谈.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的石头/有技巧的娱乐片.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的石头/石头很疯狂.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的赛车/关于宁浩、盖里奇的疯狂扯淡.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的赛车/宁浩的时代到了.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的赛车/请给《疯狂的赛车》一个挨骂的机会.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的赛车/造化.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的赛车/青岛方言的搞笑价值.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯 Mad Max/max或者编剧是傻逼！.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯 Mad Max/《疯狂的麦克斯》：新一代邪典的源头.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯 Mad Max/也许是太老了，真的不疯狂。。。.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯 Mad Max/英雄MAX.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯 Mad Max/迥然不同的《Mad Max》第一部：到底还是警匪片.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯2 Mad Max 2/有着浓浓的北斗神拳世界即视感.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯2 Mad Max 2/虽然年代远了点，但是还不错。.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯3 Mad Max Beyond Thunderdome/寓言故事.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯3 Mad Max Beyond Thunderdome/感觉是系列最惨.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯3 Mad Max Beyond Thunderdome/飞越霹雳屋.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯4：狂暴之路 Mad Max; Fury Road/【完全剧透】剧情全回顾.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯4：狂暴之路 Mad Max; Fury Road/大漠、长空与战士的公路狂想曲.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯4：狂暴之路 Mad Max; Fury Road/简评，及废土英语分析.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯4：狂暴之路 Mad Max; Fury Road/要是电影里的妹子都这么吊，还要腐女干啥.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/疯狂的麦克斯4：狂暴之路 Mad Max; Fury Road/（无剧透）酷到全影院原地炸裂升华.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/病毒之末日危机/广告植入.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/雪国列车 설국열차/40 Trivia of Snowpiercer (SPOILERS ALERT!!!).xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/雪国列车 설국열차/Never ending story.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/雪国列车 설국열차/一场重复或者重生的仪式（雪国列车与漫画改编）.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/雪国列车 설국열차/当“革命”变成“安全阀”.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/雪国列车 설국열차/我说是目前最为准确详细的解析不过分吧....xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/饭局也疯狂/《饭局也疯狂》，饭局交配学.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/饭局也疯狂/大师.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/饭局也疯狂/如何组局之再议中国都市喜剧的可能性.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/饭局也疯狂/尚敬老师您是五行缺五行吧？.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Douban/spider_products/疯狂/饭局也疯狂/年之乱拜.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/douban_products.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/merge.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Douban.iml" afterPath="$PROJECT_DIR$/.idea/Douban.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/.idea/.name" afterPath="$PROJECT_DIR$/Douban/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/.idea/Douban.iml" afterPath="$PROJECT_DIR$/Douban/.idea/Douban.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/.idea/encodings.xml" afterPath="$PROJECT_DIR$/Douban/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/.idea/misc.xml" afterPath="$PROJECT_DIR$/Douban/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/.idea/modules.xml" afterPath="$PROJECT_DIR$/Douban/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Douban/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/Write.py" afterPath="$PROJECT_DIR$/Douban/Write.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/__init__.py" afterPath="$PROJECT_DIR$/Douban/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/combine.py" afterPath="$PROJECT_DIR$/Douban/combine.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/items.py" afterPath="$PROJECT_DIR$/Douban/items.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/pipelines.py" afterPath="$PROJECT_DIR$/Douban/pipelines.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/settings.py" afterPath="$PROJECT_DIR$/Douban/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/spiders/__init__.py" afterPath="$PROJECT_DIR$/Douban/spiders/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Douban/spiders/spider.py" afterPath="$PROJECT_DIR$/Douban/spiders/spider.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movie_name.txt" afterPath="$PROJECT_DIR$/movie_name.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scrapy.cfg" afterPath="$PROJECT_DIR$/scrapy.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../LICENSE" afterPath="$PROJECT_DIR$/../LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
+    </list>
     <ignored path="Douban.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,23 +224,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="merge.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/merge.py">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Douban/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44226044">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding>
-                <element signature="e#25#34#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="28">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="movie_name.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movie_name.txt">
+      <file leaf-file-name="Write.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Douban/Write.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="502">
+              <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="combine.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Douban/combine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Douban/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Douban/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="43" column="21" selection-start-line="20" selection-start-column="4" selection-end-line="43" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -46,34 +276,37 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Douban/settings.py" />
         <option value="$PROJECT_DIR$/data.dat" />
         <option value="$PROJECT_DIR$/Douban/items.py" />
         <option value="$PROJECT_DIR$/Douban/pipelines.py" />
         <option value="$PROJECT_DIR$/Douban/spiders/spider.py" />
         <option value="$PROJECT_DIR$/Douban/merge.py" />
-        <option value="$PROJECT_DIR$/merge.py" />
         <option value="$PROJECT_DIR$/Douban/Write.py" />
         <option value="$PROJECT_DIR$/Douban/combine.py" />
+        <option value="$PROJECT_DIR$/Douban/settings.py" />
+        <option value="$PROJECT_DIR$/merge.py" />
         <option value="$PROJECT_DIR$/movie_name.txt" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
     <option name="y" value="27" />
-    <option name="width" value="1442" />
-    <option name="height" value="874" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -98,8 +331,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -137,7 +370,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -219,7 +452,21 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Douban" />
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -230,6 +477,7 @@
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run-script" />
       <scripts />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
@@ -344,7 +592,9 @@
       <method />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -353,22 +603,24 @@
       <changelist id="691ef8a5-bf9a-4204-90dd-33b9695587db" name="Default" comment="" />
       <created>1458722604357</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1458722604357</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="27" width="1442" height="874" extended-state="6" />
+    <frame x="0" y="27" width="1440" height="873" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14091559" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20143884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33773088" sideWeight="0.50277776" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845744" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32469305" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33697134" sideWeight="0.49722221" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42154256" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50613916" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -376,7 +628,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32845744" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -401,161 +652,55 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/merge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#25#34#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="616">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movie_name.txt">
+    <entry file="file://$PROJECT_DIR$/Douban/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/merge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="e#25#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/Write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/spiders/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/spiders/spider.py">
+    <entry file="file://$PROJECT_DIR$/merge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.050632913">
-          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/spiders/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/merge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3384321">
-          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/Write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16190477">
-          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Douban/combine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7985258">
-          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="110">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/movie_name.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_name.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
@@ -563,11 +708,272 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/merge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44226044">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="e#25#34#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_name.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/Write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/spiders/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/spiders/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider_products/电影/一狱一世界：高登阔少蹲监日记壹獄壹世界：高登闊少踎監日記/电影效果.txt" />
+    <entry file="file://$PROJECT_DIR$/spider_products/电影/一狱一世界：高登阔少蹲监日记壹獄壹世界：高登闊少踎監日記/电影剧情.txt" />
+    <entry file="file://$PROJECT_DIR$/spider_products/电影/一狱一世界：高登阔少蹲监日记壹獄壹世界：高登闊少踎監日記/演员演技.txt" />
+    <entry file="file://$PROJECT_DIR$/spider_products/电影/上帝也疯狂TheGodsMustBeCrazy/电影剧情.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider_products/电影/上帝也疯狂TheGodsMustBeCrazy/电影效果.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider_products/电影/上帝也疯狂TheGodsMustBeCrazy/演员演技.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/spiders/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/.idea/Douban.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/movie_name.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/Write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/combine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie_name.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Douban/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="43" column="21" selection-start-line="20" selection-start-column="4" selection-end-line="43" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>

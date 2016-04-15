@@ -51,13 +51,4 @@ class DoubanPipeline(object):
     def process_item(self, item, spider):
         w=W.Write(item,self.path)
         w.run()
-        #tmp = self.path +'/%s'%item['movie_keyword']
-        #if not os.path.isdir(tmp):
-            #os.mkdir(tmp)
-        #tmp=tmp+ u'/%s'%item['movie_name']
-        #if not os.path.isdir(tmp):
-            #os.mkdir(tmp)
-        #my_file = codecs.open('%s/%s.xml' % (tmp,item['comment_title']),mode='wb',encoding='utf-8')
-        #line = json.dumps(dict(item))+'\n'
-        #my_file.write(line.decode("unicode_escape"))
         return item

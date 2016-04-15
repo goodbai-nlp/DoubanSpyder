@@ -13,6 +13,7 @@ from scrapy.spider import BaseSpider
 from scrapy.http import Request
 from scrapy.selector import Selector
 from Douban.items import DoubanItem
+from scrapy.contrib.loader import ItemLoader, Identity
 import sys
 default_encoding = 'utf-8'
 if sys.getdefaultencoding() != default_encoding:
@@ -30,9 +31,9 @@ class DoubanSpyder(BaseSpider):
         try:
             url_head = "http://movie.douban.com/subject_search?search_text="
             for line in file_opened:
-                self.start_urls.append(url_head+line)
+                self.start_urls.append(url_head+line+"&cat=1002")
             for url in self.start_urls:
-                yield self.make_requests_from_url(url)
+                yield Request(url,callback=self.parse,cookies=[{'name': 'COOKIE_NAME','value': 'VALUE','domain': '.douban.com','path': '/'},])
         finally:
             file_opened.close()
 
@@ -43,7 +44,7 @@ class DoubanSpyder(BaseSpider):
         keyword = tmp[1]
         movie_link = hxs.xpath('//*[@id="content"]/div/div/div/table/tr/td/a/@href').extract()
         for item in movie_link:
-            yield Request(item,meta={'keyword': keyword},callback=self.parse_article)
+            yield Request(item,meta={'keyword': keyword},callback=self.parse_article,cookies=[{'name': 'COOKIE_NAME','value': 'VALUE','domain': '.douban.com','path': '/'},])
 
     def parse_article(self,response):
         hxs = Selector(response)
@@ -63,7 +64,7 @@ class DoubanSpyder(BaseSpider):
         tmp = "https://movie.douban.com/review/"
         for item in article_link:
             if tmp in item:
-                yield Request(item,meta={'item': douban_item},callback=self.parse_item)
+                yield Request(item,meta={'item': douban_item},callback=self.parse_item,cookies=[{'name': 'COOKIE_NAME','value': 'VALUE','domain': '.douban.com','path': '/'},])
 
     def parse_item(self,response):
         hxs = Selector(response)
